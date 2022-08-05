@@ -1,0 +1,61 @@
+body {
+    background-color: white;
+}
+
+h1 {
+    margin-right: 10px;
+    width: 200px;
+    font-family: 'Courier New', Courier, monospace;
+    color: rgb(249, 198, 179);
+    background-color: white;
+    padding: 10px; 
+    border-radius: 10px;
+    
+}
+
+h3 {
+    font-family: 'Courier New', Courier, monospace;
+    color: rgb(249, 198, 179);
+    background-color: white;
+    padding: 10px;
+    border-radius: 10px;
+}
+
+h4 {
+    font-family: 'Courier New', Courier, monospace;
+    color: rgb(249, 198, 179);
+    background-color: white;
+    padding: 10px;
+    border-radius: 10px;
+}
+
+#mainFrame {
+    display: flex;
+    justify-content: center; 
+    border-radius: 25px;
+    background-color: lightsalmon; 
+
+}
+
+.imageFrame1 {
+    width: 130px;
+    margin-top: 35px;
+    margin-left: 10px; 
+    margin-right: 10px;
+    padding: 10px;
+    
+}
+
+.nameGenderFrame2 {
+    margin-left: 10px;
+    margin-right: 10px;
+    padding: 10px;
+
+}
+
+.emailPhoneNumberFrame2 {
+    margin-left: 10px;
+    margin-right: 10px;
+    padding: 10px;
+}
+
